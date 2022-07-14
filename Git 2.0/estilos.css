@@ -1,5 +1,14 @@
 h1{
     color: rgb(34, 216, 171);
     font-size: 3em;
-    
+}
+
+p{
+    color: steelblue;
+    font-size: 2em;
+}
+
+img{
+    width: 200px;
+    height: auto;
 }
